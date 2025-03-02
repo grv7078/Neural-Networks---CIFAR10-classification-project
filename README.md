@@ -1,1 +1,1 @@
-# Neural-Networks---CIFAR10-classification-project
+# Neural-Networks-CIFAR10-classification-project
